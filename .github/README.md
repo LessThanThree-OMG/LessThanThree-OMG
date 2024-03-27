@@ -2,7 +2,7 @@
 
 > "Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, "Vengeance is mine, I will repay, says the Lord."" <br> - Romans 12:19
 
-![Profile Banner](../assets/b7427bc1c077fe460d4d99bc5eb075311736359a_hq.gif))
+![Profile Banner](../assets/b7427bc1c077fe460d4d99bc5eb075311736359a_hq.gif)
 </center>
 <h1 align=center> Welcome to my GitHub Profile!</h1>
 <center>
