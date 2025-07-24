@@ -11,7 +11,7 @@
 </center>
 <h3>About me:</h3>
 <div>
-<b>Name:</b> Miloš (Pronounced Milosh)<br><b>Age:</b> 20<br><b>Birthday</b>: 25/07 (25th of July)<br><b>Gender:</b> Male<br><b>Pronouns:</b> He/Him<br>
+<b>Name:</b> Miloš (Pronounced Milosh)<br><b>Age:</b> 21<br><b>Birthday</b>: 25/07 (25th of July)<br><b>Gender:</b> Male<br><b>Pronouns:</b> He/Him<br>
 </div>
 <br>
 
